@@ -14,7 +14,7 @@ This is a shopping app created using Vite and React. It allows users to browse p
 1. Clone the repository:
    ```bash
    git clone https://github.com/numberdaar/Appscrip-task-Ankit
-   cd my-project
+   cd Appscrip-task-Ankit
    npm install
    npm run dev
 
